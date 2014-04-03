@@ -1,5 +1,5 @@
 <?php
-	$db = new mysqli("localhost", "kseroux", "ewq9y8");
+	$db = new mysqli("localhost", "utilisateur", "mot de passe");
 	if($db->connect_errno)
 	{
 		exit();
