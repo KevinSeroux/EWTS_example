@@ -32,7 +32,7 @@
   	  <![endif]-->
 	</head>
 	<body>
-		<?php include 'menu.html' ?>
+		<?php include 'menu.php' ?>
 		
 		<h1>Système</h1>
 		<h2 id="identification_systeme">Identification système</h2>

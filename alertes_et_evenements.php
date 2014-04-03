@@ -32,7 +32,7 @@
   	  <![endif]-->
 	</head>
 	<body>
-		<?php include 'menu.html' ?>
+		<?php include 'menu.php' ?>
 		
 		<h1>Alertes et événements</h1>
 		<h2 id="historique">Historique</h2>

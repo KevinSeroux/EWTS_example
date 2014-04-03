@@ -32,7 +32,7 @@
   	  <![endif]-->
 	</head>
 	<body>
-		<?php include 'menu.html' ?>
+		<?php include 'menu.php' ?>
 		
 		<h1>Sessions</h1>
 		<h2 id="historique_connexions">Historique des connexions</h2>

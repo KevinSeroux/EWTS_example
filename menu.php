@@ -61,6 +61,11 @@
 							</ul>
 						</li>
 					</ul>
+
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="deconnexion.php">[<?php echo $_SESSION["username"]; ?>] Déconnexion</a></li>
+      					</ul>
+
 				</div>
 				<!-- /.navbar-collapse -->
 			</div>
